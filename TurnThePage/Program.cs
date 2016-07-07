@@ -5,6 +5,13 @@ namespace Resource_Finch_StarterSolution
 {
     class Program
     {
+        // *************************************************************
+        // Application:     Finch Starter Solution
+        // Author:          Velis, John E
+        // Date Created:    5/20/2016
+        // Date Revised:    7/7/2016
+        // *************************************************************
+
         static void Main(string[] args)
         {
             //
