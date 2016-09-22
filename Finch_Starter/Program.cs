@@ -1,7 +1,7 @@
 ﻿using FinchAPI;
 using System;
 
-namespace Resource_Finch_StarterSolution
+namespace Finch_Starter
 {
     class Program
     {
