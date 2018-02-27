@@ -8,6 +8,7 @@ namespace Finch_Starter
         // *************************************************************
         // Application:     Finch Starter Solution
         // Author:          Velis, John E
+        // Description:
         // Date Created:    5/20/2016
         // Date Revised:    9/22/2016
         // *************************************************************
