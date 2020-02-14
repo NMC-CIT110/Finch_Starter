@@ -10,7 +10,7 @@ namespace Finch_Starter
         // Author:          Velis, John E
         // Description:
         // Date Created:    5/20/2016
-        // Date Revised:    9/22/2016
+        // Date Revised:    
         // *************************************************************
 
         static void Main(string[] args)
